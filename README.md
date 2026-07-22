@@ -1,2 +1,2 @@
 markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranogames&layout=compact)](https://github.com/ranogames/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranogames&show_icons=true&theme=radical)
